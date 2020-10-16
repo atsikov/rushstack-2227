@@ -1,0 +1,5 @@
+node_modules
+/common/temp/
+**/.rush/temp/
+.vscode
+.history

@@ -1,0 +1,7 @@
+{
+    "name": "package-b",
+    "version": "0.0.1",
+    "dependencies": {
+        "react": "16.14.0"
+    }
+}
