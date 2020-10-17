@@ -1,7 +1,7 @@
 {
     "name": "package-a",
     "version": "0.0.1",
-    "dependencies": {
+    "devDependencies": {
         "@storybook/react": "6.0.22"
     }
 }
