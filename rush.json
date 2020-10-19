@@ -12,11 +12,6 @@
         "packageName": "package-a",
         "projectFolder": "packages/package-a",
         "versionPolicyName": "library"
-      },
-      {
-        "packageName": "package-b",
-        "projectFolder": "packages/package-b",
-        "versionPolicyName": "library"
       }
     ]
   }
