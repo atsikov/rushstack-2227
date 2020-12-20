@@ -1,18 +1,17 @@
 {
-    "$schema": "https://raw.githubusercontent.com/microsoft/rushstack/master/apps/rush-lib/src/schemas/rush.schema.json",
-    "rushVersion": "5.34.3",
-    "pnpmVersion": "5.5.5",
-    "pnpmOptions": {
-      "pnpmStore": "local"
-    },
-    "nodeSupportedVersionRange": ">=10.13.0 <14.0.0",
-    "ensureConsistentVersions": true,
-    "projects": [
-      {
-        "packageName": "package-a",
-        "projectFolder": "packages/package-a",
-        "versionPolicyName": "library"
-      }
-    ]
-  }
-  
+  "$schema": "https://raw.githubusercontent.com/microsoft/rushstack/master/apps/rush-lib/src/schemas/rush.schema.json",
+  "rushVersion": "5.35.2",
+  "pnpmVersion": "5.13.7",
+  "pnpmOptions": {
+    "pnpmStore": "local"
+  },
+  "nodeSupportedVersionRange": ">=10.13.0 <14.0.0",
+  "ensureConsistentVersions": true,
+  "projects": [
+    {
+      "packageName": "package-a",
+      "projectFolder": "packages/package-a",
+      "versionPolicyName": "library"
+    }
+  ]
+}
